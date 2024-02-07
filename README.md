@@ -13,3 +13,10 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
 ## Sitio web Desplegado
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
 - *Link del sitio web desplegado:*
+- *Autoevaluación del taller anterior:* 4.5
+- *Flukeout:*
+![Evidencia de juego](./design/flukeout.jpg) 
+- *Grid Garden:* 
+![Evidencia de juego](./design/grid-garden.jpg) 
+- *Flexbox Froggy:* 
+![Evidencia de juego](./design/flexbox-froggy.jpg) 
